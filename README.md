@@ -4,19 +4,19 @@ VCS History of people's XP vals, for audit trail & ease of update.
 ## Total XP by character
 
 ### Bruno (B)
-`77825`
+`79366`
 
 ### Hendel (H)
-`81647`
+`83188`
 
 ### Alsei (A)
-`80667`
+`82208`
  
 ### Yuki (Y)
 `80546`
 
 ### Orgoth (O)
-`77825`
+`79366`
 
 ### Kat (K)
  `40628`
@@ -28,3 +28,4 @@ VCS History of people's XP vals, for audit trail & ease of update.
 - 9/07/2025 - Catchup for probable missed xp: B `+3660`
 - 9/07/2025 - Completed Encounter: B `+425`, H `+425`, A `+425`, Y `+425`, O `+425`, K `+425`
 - 11/16/2025 - Completed Encounter B `+2250`, H `+2250`, A `+2250`, Y `+2250`, O `+2250`, K `+2250`
+- 12/10/2025 - Completed Encounter B `+1541`, H `+1541`, A `+1541`, Y `+1541`, O `+1541`, K `+1541`
